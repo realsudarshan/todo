@@ -1,7 +1,7 @@
 "use client"
 import React from "react";
 import { useState } from "react";
-const page = () => {
+const Page = () => {
   const [name, changename] = useState("");
   const [description, changedescription] = useState("");
   const [tasks, changetasks] = useState([]);
