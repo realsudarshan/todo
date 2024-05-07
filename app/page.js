@@ -55,4 +55,4 @@ return (
 
   </div>)
 }
-export default page;
+export default Page;
